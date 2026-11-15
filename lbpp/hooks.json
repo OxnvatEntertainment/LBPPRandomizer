@@ -1,0 +1,20 @@
+{
+ "cave": 146861568,
+ "seed": 146931712,
+ "hooks": {
+  "hook_catalog_parse": 146862016,
+  "hook_first_boot_start": 146863052,
+  "hook_level_exit": 146862944,
+  "hook_level_leave": 146863112,
+  "hook_pause_button_event": 146863800,
+  "hook_pause_button_set_text": 146864012,
+  "hook_pause_button_text": 146863916,
+  "hook_pause_event_at": 146865012,
+  "hook_pod_load_story_slots": 146863752,
+  "hook_pod_send_start_event": 146865424,
+  "hook_pod_set_current_level": 146862836,
+  "hook_prize_bubble_load": 146861568,
+  "hook_save_done": 146863020,
+  "hook_scoreboard_update": 146864888
+ }
+}
